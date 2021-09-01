@@ -1,3 +1,5 @@
+import java.text.MessageFormat
+
 class Asignacion1 {
     static void main(String[] args) {
         //define donde esta ubicado el archivo y cual es
@@ -67,10 +69,6 @@ class Asignacion1 {
                         accumulador[provincia_id] =  saldo
                         provincia_conta[provincia_id] =1
                     } else {
-
-                        
-
-                        
                         //provincia = 2
 
                         accumulador[provincia_id] = accumulador[provincia_id] + saldo
@@ -86,12 +84,15 @@ class Asignacion1 {
         println 'Cantidad de lineas : ' + numeroLineas
         println 'Promedio general : ' + promedioGeneral / numeroLineas
 
-        (0..9).each{cod_provincia ->
-           // println(provincias[cod_provincia])
-           // println(accumulador[cod_provincia]/provincia_conta[cod_provincia])
+        def reporte = new File("reporte.txt")
+        reporte.delete()
+        reporte.createNewFile()
+        reporte.write('=====================|====================\n')
+        reporte.append(String.format("%-20s | %s\n", "Provincia", "Saldo promedio"))
+        reporte.append('=====================|====================\n')
 
-           // println( "Provincia: ${provincias[cod_provincia]}  Promedio: ${provincia_conta[cod_provincia]}")
-            printf(" %20s  %10.4f \n", provincias[cod_provincia],accumulador[cod_provincia]/provincia_conta[cod_provincia])
+        (0..9).each{cod_provincia ->
+            reporte.append(String.format("%-20s | %,10.4f\n", provincias[cod_provincia],accumulador[cod_provincia]/provincia_conta[cod_provincia]))
         }
     }
 }
