@@ -3,6 +3,8 @@ import java.text.MessageFormat
 /***
    Proyecto por Elena Mancilla
    2021-09-01
+
+ Cambio por GNunez
  */
 
 class Asignacion1 {
