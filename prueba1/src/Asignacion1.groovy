@@ -1,5 +1,10 @@
 import java.text.MessageFormat
 
+/***
+   Proyecto por Elena Mancilla
+   2021-09-01
+ */
+
 class Asignacion1 {
     static void main(String[] args) {
         //define donde esta ubicado el archivo y cual es
@@ -11,29 +16,7 @@ class Asignacion1 {
         double promedioGeneral = 0
 
         //Leer el archivo linea a linea
-   /*     archivo.withReader { reader ->
-            while ((linea = reader.readLine()) != null) {
-                if(!linea.startsWith('version')){
-                    String [] data = linea.split(',')
-                    def saldo = data [6]
-                    def id = data [5]
-                    promedioGeneral = promedioGeneral + Double.valueOf(saldo)
-                    numeroLineas++
-                }
-            }
-        }
 
-        println 'Cantidad de lineas : ' + numeroLineas
-        println 'Promedio general : ' + promedioGeneral / numeroLineas
-
-        def provincias = [0:"Panama Oeste", 1:"Bocas del Toro"...]
-
-        def provincias =[:]
-        provincias[0] ="Panama Oeste"
-        provincias[1] = "Bocas del Toro"
-
-
-*/
         //Map para traducir numeros a nombre de provincias
         HashMap<Integer, String> provincias = new HashMap<>()
         provincias.put(0, 'Panama Oeste')
