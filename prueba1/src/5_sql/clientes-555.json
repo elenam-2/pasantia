@@ -1,0 +1,56 @@
+[
+    {
+        "saldo": 2971.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "89-95-57573648",
+        "identificacion": "6-841-5277"
+    },
+    {
+        "saldo": 2948.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "93-65-29351795",
+        "identificacion": "7-531-9512"
+    },
+    {
+        "saldo": 4786.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "29-74-28896812",
+        "identificacion": "8-798-2999"
+    },
+    {
+        "saldo": 4532.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "03-99-45832872",
+        "identificacion": "9-807-6050"
+    },
+    {
+        "saldo": 3792.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "45-85-28410526",
+        "identificacion": "2-708-1046"
+    },
+    {
+        "saldo": 2819.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 555,
+        "cuenta": "30-46-70945445",
+        "identificacion": "3-570-7878"
+    }
+]

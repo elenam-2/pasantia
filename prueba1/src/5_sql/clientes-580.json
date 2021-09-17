@@ -1,0 +1,137 @@
+[
+    {
+        "saldo": 2793.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "19-83-25740329",
+        "identificacion": "4-349-3971"
+    },
+    {
+        "saldo": 5212.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "41-85-03223506",
+        "identificacion": "6-365-1694"
+    },
+    {
+        "saldo": 6374.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "52-11-96244978",
+        "identificacion": "3-390-3961"
+    },
+    {
+        "saldo": 5382.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "33-46-78715243",
+        "identificacion": "9-386-9662"
+    },
+    {
+        "saldo": 1321.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "19-02-05115985",
+        "identificacion": "0-845-6806"
+    },
+    {
+        "saldo": 1174.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "73-18-45685376",
+        "identificacion": "8-003-4288"
+    },
+    {
+        "saldo": 851.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "02-27-39821671",
+        "identificacion": "2-369-5235"
+    },
+    {
+        "saldo": 2050.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "16-51-32608271",
+        "identificacion": "7-079-3703"
+    },
+    {
+        "saldo": 1886.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "90-51-17558731",
+        "identificacion": "7-361-9188"
+    },
+    {
+        "saldo": 6147.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "48-16-95318103",
+        "identificacion": "3-415-2135"
+    },
+    {
+        "saldo": 5142.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "48-34-26766996",
+        "identificacion": "4-645-4909"
+    },
+    {
+        "saldo": 5213.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "34-91-58656989",
+        "identificacion": "3-530-3501"
+    },
+    {
+        "saldo": 5489.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "04-63-70125621",
+        "identificacion": "8-688-7590"
+    },
+    {
+        "saldo": 1224.0,
+        "descripcion": "Cuenta Personal",
+        "tipoCuenta": "AHORROS",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "52-26-52455166",
+        "identificacion": "3-341-0907"
+    },
+    {
+        "saldo": 1586.0,
+        "descripcion": "Cuenta Familiar",
+        "tipoCuenta": "CORRIENTE",
+        "version": 1,
+        "clienteId": 580,
+        "cuenta": "03-61-25601347",
+        "identificacion": "3-061-0004"
+    }
+]
